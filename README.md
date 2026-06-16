@@ -132,3 +132,7 @@ The BI and Data Engineering landscape is evolving rapidly.
 The future is no longer just dashboards.
 
 The future is intelligent business applications built directly on top of governed semantic models.
+
+links 
+Altimate AI : https://docs.myaltimate.com/arch/llm-gateway/?utm_source=youtube&utm_medium=video&utm_campaign=june2026&utm_content=simple_ai_explained
+powerbi modeling mcp server : https://github.com/microsoft/powerbi-modeling-mcp
